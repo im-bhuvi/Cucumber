@@ -22,6 +22,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class AddToCartSteps extends Bassclass {
 	//git example check 
 	//conformation check
+	//branch check
 	
 	//not check
 	@Given("The user should be in flipkart mani page")
