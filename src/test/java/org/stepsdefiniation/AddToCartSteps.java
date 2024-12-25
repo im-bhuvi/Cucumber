@@ -20,6 +20,7 @@ import io.cucumber.java.en.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class AddToCartSteps extends Bassclass {
+	//git example check 
 	
 	@Given("The user should be in flipkart mani page")
 	public void the_user_should_be_in_flipkart_mani_page() {
